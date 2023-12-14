@@ -1,0 +1,6 @@
+button:hover {
+  cursor: pointer;
+  background-color: #707B7C;
+  opacity: 0.8;
+  color: white;
+}
